@@ -1,5 +1,5 @@
-# AzureDioFacial 🏴󠁭󠁤󠁩󠁡󠁿
-Entrega de projeto para o bootcamp microsoft IA-900
+# Projeto copilot 🏴󠁭󠁤󠁩󠁡󠁿
+Entrega de projeto para o bootcamp microsoft copilot
 
 
 # 🛠️ INSTRUÇÕES ENTREGA DO PROJETO: 
@@ -13,50 +13,17 @@ Entrega de projeto para o bootcamp microsoft IA-900
 
 ## 💻 RESUMO DA ATIVIDADE 💻 
 
-- **1- Criar uma recurso para acessar o Vision**: 
+- **1- Explorar o Microsoft Copilot no Microsoft Edge**: 
 
-Após criar um recurso específico (Azuere AI Services): ![Recurso](recursocriado.png) entrei no link para iniciar minhas atividades no laboratório designado para o Azure AI Services (https://portal.vision.cognitive.azure.com/)
-
-
-
-- **2- Usando o Vision e seus recursos**: 
-
-1) O primeiro recurso utilizado foi o 'Reconhecimento de face' ![FacialDetected](facial.png)
-
-Com ele, segui as orientações da professora, e escolhi duas imagens para fazer a o reconhecimento de face
-
-Exemplo 1:
-
-![Facial1](/outpout/facial1R.png)
-
-Exemplo 2:
-
-![Facial2](/outpout/facial2R.png)
+- **1-**Explorei o Microsoft Copilot no Microsoft Edge: me conectando ao meu OneDrive, e criei um documento de texto online chamado 'Business Idea.docx'.
+Usei o Copilot para explorar um documento e pesquisar uma ideia.
+Usei o Copilot para criar conteúdo para um plano de negócios da empresa, pedi que ele sugerisse um nome para a empresa.
+Pedi ao Copilot para criar um Sumário Executivo.
+Pedi ao Copilot para criar uma logo para a empresa de limpeza.
+Use o Copilot para criar conteúdo para uma apresentação
+Use o Copilot para redigir um e-mail
 
 
-2) O seugndo recurso utilizado foi o 'Reconhecimento de texto' ![TextoDetected](texto.png)
-
-Com ele, segui as orientações da professora, e escolhi duas imagens para fazer a o reconhecimento de texto
-
-Exemplo 1:
-
-![texto1](/outpout/extract1R.png)
-
-Exemplo 2:
-
-![texto2](/outpout/extract2R.png)
-
-3) O terceiro recurso utilizado foi o 'Reconhecimento de imagem' ![ImagemDetected](captions.png)
-
-com ele segui as orientações da professora, e escolhi duas imagens para fazer a o reconhecimento de imagem
-
-Exemplo 1:
-
-![texto1](/outpout/caption1R.png)
-
-Exemplo 2:
-
-![texto2](/outpout/caption2R.png)
 
 
 ## ✍🏻 CONSIDERAÇÕES FINAIS:
