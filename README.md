@@ -13,15 +13,21 @@ Entrega de projeto para o bootcamp microsoft copilot
 
 ## 💻 RESUMO DA ATIVIDADE 💻 
 
-- **1- Explorar o Microsoft Copilot no Microsoft Edge**: 
+- **Explorando o Microsoft Copilot no Microsoft Edge**: 
 
-- **1-**Explorei o Microsoft Copilot no Microsoft Edge: me conectando ao meu OneDrive, e criei um documento de texto online chamado 'Business Idea.docx'.
-Usei o Copilot para explorar um documento e pesquisar uma ideia.
-Usei o Copilot para criar conteúdo para um plano de negócios da empresa, pedi que ele sugerisse um nome para a empresa.
-Pedi ao Copilot para criar um Sumário Executivo.
-Pedi ao Copilot para criar uma logo para a empresa de limpeza.
-Use o Copilot para criar conteúdo para uma apresentação
-Use o Copilot para redigir um e-mail
+1. Explorei o Microsoft Copilot no Microsoft Edge: me conectando ao meu OneDrive, e criei um documento de texto online chamado 'Business Idea.docx'.
+2. Usei o Copilot para explorar um documento e pesquisar uma ideia.
+3. Usei o Copilot para criar conteúdo para um plano de negócios da empresa, pedi que ele sugerisse um nome para a empresa.
+   ![Resultado1](https://github.com/user-attachments/assets/26ea0f5b-0a0a-4d9d-b9c4-acc73f993be0)
+
+5. Pedi ao Copilot para criar um Sumário Executivo.
+6. Pedi ao Copilot para criar uma logo para a empresa de limpeza.
+   ![logo-do-exercicio](https://github.com/user-attachments/assets/8142171e-0b08-4038-8978-88df66bb9287)
+
+8. Use o Copilot para criar conteúdo para uma apresentação.
+   ![Resultado2](https://github.com/user-attachments/assets/a8203a21-5e8d-4ea1-aa25-6bc3019080d0)
+
+10. Use o Copilot para redigir um e-mail
 
 
 
