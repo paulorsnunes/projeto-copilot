@@ -28,6 +28,7 @@ Entrega de projeto para o bootcamp microsoft copilot
    ![Resultado2](https://github.com/user-attachments/assets/a8203a21-5e8d-4ea1-aa25-6bc3019080d0)
 
 10. Use o Copilot para redigir um e-mail
+   ![Uploading Resultado3.png…]()
 
 
 
