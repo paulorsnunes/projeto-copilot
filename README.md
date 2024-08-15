@@ -31,8 +31,6 @@ Entrega de projeto para o bootcamp microsoft copilot
    ![Uploading Resultado3.png…]()
 
 
-
-
 ## ✍🏻 CONSIDERAÇÕES FINAIS:
 
-Com o material que foi extraído da aula, podemos ver a importância do reconhecimento da IA, seja ela para pegar textos de uma imagem, e decifrar um diário apenas por fotos, ou, até mesmo ajudar os meios de segurança pública (polícia e etc) a identificar procurados!
+Com o material foi sugerido da aula, podemos ver a importância do uso da IA para criação de contéudo, criação de imagens e sugestão de conteúdo profissonal ou formal para envio por e-mail aos clientes ou potenciais clientes da empresa EcoLimpeza.
